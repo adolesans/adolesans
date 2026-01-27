@@ -8,4 +8,4 @@
 </p>
 
 ---
-*“I build machine learning models that solve business problems. My goal is to contribute to product success by building AI solutions that are efficient, reliable, and clearly aligned with business and customer needs.”* [cite: 88, 92, 93, 98]
+*“I build machine learning models that solve business problems. My goal is to contribute to product success by building AI solutions that are efficient, reliable, and clearly aligned with business and customer needs.”*
