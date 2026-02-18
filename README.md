@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 Hi there! I'm Annisa Dewiyanti 👩‍💻
-### AI & Machine Learning Engineer | Data Scientist
+### AI & Machine Learning Engineer | Data Scientist 
 
 <p align="center">
   <a href="mailto:annisadewiyanti6@gmail.com">
@@ -68,7 +68,7 @@ Explore my specialized repositories showcasing end-to-end solutions in AI, Data 
 ### 📈 Visualization & BI
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-#ffffff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=matplotlib&logoColor=black)
 
 ---
 
