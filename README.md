@@ -26,9 +26,9 @@ Explore my specialized repositories showcasing end-to-end solutions in AI, Data 
 
 | Domain | Repository & Focus | Key Tech Stack |
 | :--- | :--- | :--- |
-| **AI & ML Engineering** | [**📂 AI.ML Engineering Projects**](https://github.com/adolesans/AI.ML-Engineering-Project) <br> *A collection of high-fidelity predictive systems, deep learning architectures (Seq2Seq, NCF), and medical classification models.* | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-yellow) ![LSTM](https://img.shields.io/badge/-LSTM-red) |
+| **AI & ML Engineering** | [**📂 AI.ML Engineering Projects**](https://github.com/adolesans/AI.ML-Engineering-Project) <br> *A collection of high-fidelity predictive systems, deep learning architectures (Seq2Seq, NCF)* | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-yellow) ![LSTM](https://img.shields.io/badge/-LSTM-red) |
 | **Data Science Projects** | [**📂 End-to-End Data Science Portfolio**](https://github.com/adolesans/End-to-End-Data-Science-Portfolio) <br> *Strategic analytics, comprehensive EDA, and interactive business intelligence dashboards for operational insights.* | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B) ![Pandas](https://img.shields.io/badge/-Pandas-blue) ![Plotly](https://img.shields.io/badge/-Plotly-purple) |
-| **Computer Vision Projects** | [**📂 Computer Vision & Visual Intelligence**](https://github.com/adolesans/Computer-Vision-Visual-Intelligence-Project) <br> *Real-time object detection and tracking pipelines (Traffic Analytics) deployed for production environments.* | ![YOLOv5](https://img.shields.io/badge/-YOLOv5-black) ![OpenCV](https://img.shields.io/badge/-OpenCV-green) ![DeepLearning](https://img.shields.io/badge/-DeepLearning-blue) |
+| **Computer Vision Projects** | [**📂 Computer Vision & Visual Intelligence**](https://github.com/adolesans/Computer-Vision-Visual-Intelligence-Project) <br> *Real-time object detection and tracking pipelines deployed for production environments.* | ![YOLOv5](https://img.shields.io/badge/-YOLOv5-black) ![OpenCV](https://img.shields.io/badge/-OpenCV-green) ![DeepLearning](https://img.shields.io/badge/-DeepLearning-blue) |
 
 ---
 
@@ -72,7 +72,5 @@ Explore my specialized repositories showcasing end-to-end solutions in AI, Data 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adolesans&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adolesans&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+![Annisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolesans&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolesans&layout=compact&theme=radical&hide_border=true)
