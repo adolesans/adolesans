@@ -69,6 +69,3 @@ Explore my specialized repositories showcasing end-to-end solutions in AI, Data 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=matplotlib&logoColor=black)
 
 ---
-
-![Annisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolesans&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolesans&layout=compact&theme=radical&hide_border=true)
